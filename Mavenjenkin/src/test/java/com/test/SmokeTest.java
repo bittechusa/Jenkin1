@@ -12,6 +12,7 @@ public class SmokeTest
 	{
 		DOMConfigurator.configure("log4j.xml");
 		Logger log=Logger.getLogger(SmokeTest.class);
+		System.out.println("this is jenkin");
 		log.fatal("this is fatal");
 		log.error("this is error");
 		log.warn("this is warn");
