@@ -1,0 +1,10 @@
+2017-11-19 14:53:55,891 FATAL [SmokeTest] this is fatal 
+2017-11-19 14:53:55,893 ERROR [SmokeTest] this is error 
+2017-11-19 14:53:55,893 WARN  [SmokeTest] this is warn 
+2017-11-19 14:53:55,894 INFO  [SmokeTest] this is info 
+2017-11-19 14:54:44,677 FATAL [SmokeTest] this is fatal 
+2017-11-19 14:54:44,680 ERROR [SmokeTest] this is error 
+2017-11-19 14:54:44,681 WARN  [SmokeTest] this is warn 
+2017-11-19 14:54:44,681 INFO  [SmokeTest] this is info 
+2017-11-19 14:55:33,390 FATAL [SmokeTest] this is fatal 
+2017-11-19 14:55:33,393 ERROR [SmokeTest] this is error 
